@@ -13,8 +13,8 @@ int main()
 
 #Cpp
 =====================================
-#include <iostream>
-using namespace std;
+#include <iostream>//註解1
+using namespace std;//註解2
 int main()
 {
     cout << "Hello, world!" << endl;
@@ -33,4 +33,5 @@ public class HelloWorld {
 
 =====================================
 
-iostream=input/outputstream(輸入/輸出流)的縮寫
+//註解1:iostream=input/outputstream(輸入/輸出流)的縮寫
+//註解2:using namespace std;指定現在的簡寫所要使用的是 std 裡面的名稱，亦即省去了 std
