@@ -1,0 +1,36 @@
+#C
+=====================================
+#include <stdio.h>
+ 
+int main()
+{
+    /* 我的第一個 C 程式 */
+    printf("Hello, World! \n");
+ 
+    return 0;
+}
+=====================================
+
+#Cpp
+=====================================
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "Hello, world!" << endl;
+    return 0;
+}
+=====================================
+
+#JAVA
+
+=====================================
+public class HelloWorld {
+    public static void main(String []args) {
+       System.out.println("Hello World");
+    }
+}
+
+=====================================
+
+iostream=input/outputstream(輸入/輸出流)的縮寫
